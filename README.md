@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<img src="https://media.giphy.com/media/ldJP48JrVo37sSnMzK/giphy.gif" width="100"/>
+<img align="center" src="https://media.giphy.com/media/ldJP48JrVo37sSnMzK/giphy.gif" width="100"/>
 <h3 align="center">I`m frontend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat" alt="sh0ny-it" /> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/" height="30" width="40" /></a>
