@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<img align="center" src="https://media.giphy.com/media/ldJP48JrVo37sSnMzK/giphy.gif" width="100"/>
+
 <h3 align="center">I`m frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat" alt="sh0ny-it" /> </p>
 <h3 align="left">Connect with me:</h3>
