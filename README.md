@@ -2,7 +2,7 @@
 <h3 align="center">I`m frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat" alt="sh0ny-it" /> </p>
-
+<img str="https://camo.githubusercontent.com/c57f65c3ae87dc6833a2280825e8cd6b0c8da50f9a39be657d22d4751196f24d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c644a5034384a72566f333773536e4d7a4b2f67697068792e676966 alt='samurai'>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
