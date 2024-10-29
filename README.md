@@ -45,7 +45,7 @@ Contributed to optimizing the UI for Userver, a leading C++ framework used in Ya
 
 ## About Me
 
-I'm a passionate frontend developer with experience in building dynamic and responsive web applications using modern technologies like **Angular**, **React**, and **Vue.js**. I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate frontend developer with experience in building dynamic and responsive web applications using modern technologies like **Angular**, **React**. I love turning complex problems into simple, beautiful, and intuitive designs.
 
 ## Languages and Tools:
 <p align="left"> 
