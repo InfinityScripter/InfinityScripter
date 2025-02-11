@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat" alt="sh0ny-it" /> 
+  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sh0ny-it" /> 
 </p>
 
 ## My Projects
