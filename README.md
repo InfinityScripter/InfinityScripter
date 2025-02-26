@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">Passionate Frontend Developer</h3>
+<h3 align="center">Passionate WEB Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ldJP48JrVo37sSnMzK/giphy.gif" width="100" alt="samurai"/>
