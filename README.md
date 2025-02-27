@@ -43,6 +43,17 @@ Contributed to optimizing the UI for Userver, a leading C++ framework used in Ya
 
 **Technologies:** JavaScript, Git, HTML, CSS, Figma, jQuery
 
+### <img src="https://raw.githubusercontent.com/InfinityScripter/blog-app-mui-frontend/main/public/favicon.ico" alt="Blog App Logo" width="30"/> [Blog](https://sh0ny.online)
+
+A full-stack blogging platform built with a React frontend and a Node.js/Express backend, using Material-UI (MUI) for a modern, responsive design. The project provides a complete solution for creating and managing blog content.
+
+User Authentication: Secure login and registration system for user accounts.
+Blog Post Management: Users can create, edit, and delete blog posts with rich text and cover images.
+Responsive UI: Material-UI-based design ensures a smooth experience across all devices.
+Search & Read: Visitors can browse and search blog posts effortlessly.
+Scalability & Performance: Optimized database structure and API design ensure efficient performance.
+Technologies: React, Material-UI, Node.js, Express, MongoDB, JWT, Multer (file uploads)
+
 ## About Me
 
 I'm a passionate frontend developer with experience in building dynamic and responsive web applications using modern technologies like **Angular**, **React**. I love turning complex problems into simple, beautiful, and intuitive designs.
