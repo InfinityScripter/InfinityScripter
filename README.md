@@ -8,7 +8,7 @@
   <a href="mailto:talalaev.misha@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://sh0ny.online">
+  <a href="https://talalaev.su/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -60,7 +60,7 @@ Open-source C++ framework powering Yandex services (Yandex GO, Delivery Club). H
 
 `JavaScript` · `HTML` · `CSS` · `jQuery` · `Figma` · `Git`
 
-### <img src="https://raw.githubusercontent.com/InfinityScripter/blog-app-mui-frontend/main/public/favicon.ico" width="18"/> [Blog Platform](https://sh0ny.online) — Personal Project (Full-Stack)
+### <img src="https://raw.githubusercontent.com/InfinityScripter/blog-app-mui-frontend/main/public/favicon.ico" width="18"/> [Blog Platform](https://talalaev.su) — Personal Project (Full-Stack)
 Full-stack blogging platform with secure auth, rich-text post management, and a responsive MUI interface — built solo, front to back.
 - JWT auth, role-based access, and post CRUD with cover-image uploads
 - Optimized API and DB structure for fast browse/search
@@ -110,5 +110,5 @@ Full-stack blogging platform with secure auth, rich-text post management, and a 
 <p align="center">
   <a href="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/">LinkedIn</a> ·
   <a href="mailto:talalaev.misha@gmail.com">Email</a> ·
-  <a href="https://sh0ny.online">Portfolio</a>
+  <a href="https://talalaev.su/portfolio">Portfolio</a>
 </p>
