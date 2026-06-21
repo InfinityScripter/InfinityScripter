@@ -1,96 +1,112 @@
-<div style="text-align: center;">
-<h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">Passionate WEB Developer</h3>
+<h1 align="center">Hi 👋, I'm Mikhail Talalaev</h1>
+<h3 align="center">Software Engineer · 13+ years in IT — React · TypeScript · Next.js</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ldJP48JrVo37sSnMzK/giphy.gif" width="100" alt="samurai"/>
-  <img src="https://avatars.mds.yandex.net/get-lpc/1520633/4e3ec5ce-8aac-4a7c-9746-e70be13c53cf/orig" width="190" alt="profile-pic"/>
+  <a href="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:talalaev.misha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://sh0ny.online">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sh0ny-it" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
-## My Projects
-
-### <img src="https://stomplan.ru/favicon.ico" alt="Stomplan Logo" width="30"/> [Stomplan](https://stomplan.ru)
-As a frontend developer at Stomplan, I contribute to the development and enhancement of a web platform for dental clinics, focusing on improving user experience and implementing new features.
-
-- **UI/UX Enhancements:** Improved the visual appeal and usability of the platform by implementing modern UI/UX practices.
-- **New Feature Implementation:** Developed and integrated new functionalities that streamline clinic management processes.
-- **Performance Optimization:** Enhanced the speed and responsiveness of the platform, ensuring a seamless experience for users.
-
-**Technologies:** Angular, TypeScript, SCSS, HTML, Git
-
-### <img src="https://shurik.market/favicon.ico" alt="ShurikMarket Logo" width="30"/> [ShurikMarket](http://shurik.market)
-A comprehensive e-commerce platform where I contributed to the support and improvement of the frontend monolith built on Symfony, as well as preparing the migration to a RESTful API. My work significantly improved user engagement and conversion rates.
-
-- **Page Load Optimization (FCP):** Enhanced user experience and reduced bounce rates by optimizing the page load time.
-- **New Services Implementation:** Introduced new services like News, Certificates, Feedback, and Favorite Products, increasing the site’s informational value.
-- **User Registration/Authorization:** Simplified the order process and encouraged repeat purchases by implementing a seamless registration and authorization system.
-- **New Landing Page Design:** Improved visual appeal and user interaction by developing a new landing page based on provided designs.
-- **Internal UI Kit Implementation:** Accelerated development and standardized design by creating and deploying an internal UI kit.
-- **Migration to RESTful API + Next.js:** Successfully migrated the project to a modern architecture using RESTful API and Next.js with React.
-
-**Technologies:** Symfony, JavaScript, TypeScript, React JS, Next.js, Material UI, Git, HTML, CSS, Figma, WebPack, PHP, Twig
-
-### <img src="https://userver.tech/favicon.svg" alt="Userver Logo" width="30"/> [Userver.tech](https://userver.tech)
-Contributed to optimizing the UI for Userver, a leading C++ framework used in Yandex services (e.g., Uber ru, Delivery Club, Yandex GO). Improved the stability and functionality of the project, aiding its transition from beta to full release.
-
-- **Documentation Optimization:** Enhanced the clarity and usability of the Userver documentation, supporting developers in utilizing the framework effectively.
-- **Code Base Improvement:** Contributed to the GitHub repository, improving both the documentation and the code base, fostering the framework’s growth.
-- **Web Design Implementation:** Developed responsive web designs based on Figma prototypes, ensuring cross-device compatibility.
-
-**Technologies:** JavaScript, Git, HTML, CSS, Figma, jQuery
-
-### <img src="https://raw.githubusercontent.com/InfinityScripter/blog-app-mui-frontend/main/public/favicon.ico" alt="Blog App Logo" width="30"/> [Blog](https://sh0ny.online)
-
-A full-stack blogging platform built with a React frontend and a Node.js/Express backend, using Material-UI (MUI) for a modern, responsive design. The project provides a complete solution for creating and managing blog content.
-
-User Authentication: Secure login and registration system for user accounts.
-Blog Post Management: Users can create, edit, and delete blog posts with rich text and cover images.
-Responsive UI: Material-UI-based design ensures a smooth experience across all devices.
-Search & Read: Visitors can browse and search blog posts effortlessly.
-Scalability & Performance: Optimized database structure and API design ensure efficient performance.
-Technologies: React, Material-UI, Node.js, Express, MongoDB, JWT, Multer (file uploads)
+---
 
 ## About Me
 
-I'm a passionate frontend developer with experience in building dynamic and responsive web applications using modern technologies like **Angular**, **React**. I love turning complex problems into simple, beautiful, and intuitive designs.
+Software Engineer with **13+ years in IT**. I take products through the full cycle — from architecture design to production delivery. My core strength is frontend with **React, Next.js, and TypeScript**, and I work confidently across backend (**Node.js, PostgreSQL**) and infrastructure (**Docker, CI/CD**).
 
-## Languages and Tools:
-<p align="left"> 
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="angular" /> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="typescript" /> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript" /> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="react" /> 
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="sass" /> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" /> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="webpack" /> 
-  </a>
+- 🔭 Building products at **Яндекс** · previously **СТОМПЛАН**, **ShurikMarket**
+- 🌱 Going deeper on **Next.js (App Router), React 19, and performance**
+- 💬 Open to **Software Engineer / Frontend** roles
+- 📫 Reach me at **talalaev.misha@gmail.com**
+
+---
+
+## Experience & Projects
+
+### <img src="https://stomplan.ru/favicon.ico" width="18"/> [Stomplan](https://stomplan.ru) — Frontend Developer
+SaaS platform for dental clinics. Building and improving clinic-management features end to end.
+- Shipped new clinic-workflow features that streamlined day-to-day management
+- Modernized UI/UX for better usability and engagement
+- Optimized rendering for faster, more responsive screens
+
+`Angular` · `TypeScript` · `SCSS` · `HTML` · `Git`
+
+### <img src="https://shurik.market/favicon.ico" width="18"/> [ShurikMarket](http://shurik.market) — Frontend Developer
+E-commerce platform; supported the Symfony frontend monolith and led the migration toward a RESTful API + Next.js architecture.
+- Cut page-load time (improved FCP), reducing bounce rates
+- Built customer-facing services: News, Certificates, Feedback, Favorites
+- Added seamless registration/auth flow that lifted repeat purchases
+- Created an internal UI kit, standardizing design and speeding up delivery
+- Drove the migration to a modern REST + Next.js/React stack
+
+`Symfony` · `PHP` · `Twig` · `React` · `Next.js` · `TypeScript` · `MUI` · `Webpack`
+
+### <img src="https://userver.tech/favicon.svg" width="18"/> [Userver.tech](https://userver.tech) — Frontend Contributor
+Open-source C++ framework powering Yandex services (Yandex GO, Delivery Club). Helped take the docs site from beta to release.
+- Improved documentation clarity and structure for developer adoption
+- Contributed code and docs to the public GitHub repo
+- Implemented responsive, cross-device layouts from Figma prototypes
+
+`JavaScript` · `HTML` · `CSS` · `jQuery` · `Figma` · `Git`
+
+### <img src="https://raw.githubusercontent.com/InfinityScripter/blog-app-mui-frontend/main/public/favicon.ico" width="18"/> [Blog Platform](https://sh0ny.online) — Personal Project (Full-Stack)
+Full-stack blogging platform with secure auth, rich-text post management, and a responsive MUI interface — built solo, front to back.
+- JWT auth, role-based access, and post CRUD with cover-image uploads
+- Optimized API and DB structure for fast browse/search
+- Fully responsive Material-UI design
+
+`React` · `Next.js` · `Node.js` · `Express` · `MUI` · `PostgreSQL` · `JWT`
+
+---
+
+## Tech Stack
+
+**Languages** &nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Infrastructure & Tools** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=InfinityScripter&show_icons=true&theme=default&hide_border=true" height="160" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityScripter&layout=compact&theme=default&hide_border=true" height="160" alt="top langs"/>
 </p>
 
+---
 
-## Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sh0ny" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mikhail-talalaev-aa1245230/">LinkedIn</a> ·
+  <a href="mailto:talalaev.misha@gmail.com">Email</a> ·
+  <a href="https://sh0ny.online">Portfolio</a>
 </p>
-</div>
