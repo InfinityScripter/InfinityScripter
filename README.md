@@ -13,9 +13,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sh0ny-it&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sh0ny-it" />
 </p>
+
+📫 Email: <a href="mailto:talalaev.misha@gmail.com">talalaev.misha@gmail.com</a>
 
 ---
 
